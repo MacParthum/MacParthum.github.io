@@ -171,7 +171,7 @@ input, select, textarea {
 	}
 
 	p {
-		text-align: justify;
+		text-align: center;
 		margin: 0 0 2rem 0;
 	}
 
@@ -3848,7 +3848,7 @@ input, select, textarea {
 			}
 
 			#main > .posts > * {
-				width: 100%;
+				width: 80%;
 			}
 
 			#main > .posts > * {
